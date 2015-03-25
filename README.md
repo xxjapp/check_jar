@@ -7,6 +7,10 @@ Execute:
 
     $ bash <(curl -sk https://raw.githubusercontent.com/xxjapp/check_jar/master/install.sh)
 
+Install necessary gems if not present
+
+	$ sudo gem install rubyzip
+
 ## Usage
 
 Example 1:
